@@ -36,7 +36,18 @@
 
 5. EXPLICACIÓN
 
-   5.1. Análisis de Resultados
+   5.1. Procedimiento
+   
+    - Ingresar ala plataforma dcaclab y seleccionar los elementos listados previamente dando los valores respectivos.
+    - Conectar en serie la fuente de valor pico 10 V, con la resistencia de 100 ohm. y con una conexión en paralelo de dos capacitancias (y posteriormente con dos inductancias en lugar de ellas).
+    - Conectar los extremos del osciloscopio a los extremos de la conexión en paralelo de las capacitancias (o inductancias).
+    - Conectar el multímetro con la perilla en la opción 12V AC, que permitirá medir el voltaje rms en los mismos extremos de la conexión en paralelo mencionada anteriormente
+    - Conectar en serie entre la fuente y la resistencia, un multímetro con la perilla en la opción de 3 A, que permitirá observar los valores de la corriente para la resistencia.
+    - Colocar un valor de 0Hz a la frecuencia de la fuente y tomar las respectivas medidas.
+    - Repetir el paso anterior pero con diferentes valores de frecuencia: 10 Hz, 50 Hz, 100Hz, 500Hz y 1000Hz.
+    - Para tomar el valor de la corriente de la resistencia, es importante conocer que el multímetro no va a dar un valor fijo, sino que va a dar los valores según el tiempo, dado que es una corriente alterna. Por ello, se debe observar el mayor valor de entre todos los que se ven en el mulímetro y tomar dicho valor, el cual es el valor pico de la corriente.
+
+   5.2. Análisis de Resultados
    
      ![image](https://user-images.githubusercontent.com/75439689/112569419-1f138480-8db2-11eb-8020-fd5d8867b814.png)
      ![image](https://user-images.githubusercontent.com/75439689/112569423-220e7500-8db2-11eb-9f39-554f6e1c49e6.png)
@@ -67,7 +78,7 @@
      
      En esta tabla se evidencia la corriente que se pasa por parte de la resistencia, pero se puede observar que los valores que pasan por este se ven afectados de manera inversa por la frecuencia, es decir, por cada frecuencia que se va aumentando el valor de la corriente va disminuyendo, al contrario de la tabla de circuito con capacitores, hasta llegar al valor de 0 A.
      
-   5.2. Preguntas
+   5.3. Preguntas
    
      1. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
          
