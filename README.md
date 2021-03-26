@@ -104,8 +104,10 @@
 
 6. CONCLUSIONES
 
-   - Cuando la frecuencia de la fuente es igual a cero, se trata de una fuente de corriente continua, la cual produce un efecto distinto sobre los capacitores y las inductancias a diferencia de lo que produce la corriente alterna en ellas. Dicho efecto consiste en que ambos almacenan energía, pero considerando también que el capacitor impide completamente el paso de corriente. 
-   - 
+   - Cuando la frecuencia de la fuente es igual a cero, se trata de una fuente de corriente continua, la cual produce un efecto distinto sobre los capacitores y los inductores a diferencia de lo que produce la corriente alterna en ellos. Dicho efecto consiste en que ambos almacenan energía, pero considerando también que el capacitor impide completamente el paso de corriente. 
+   - En el circuito con capacitores, a medida que aumenta la frecuencia de la fuente, el valor pico de la corriente aumenta, esto se debe a que la reactancia capacitiva es inversamente proporcional a la frecuencia, por ello se obtiene un valor cada vez menor de ma reactancia, lo que permite un mayor paso de corriente.
+   - Por otra parte, en em circuito con inductores, a medida que aumenta la frecuencia, la reactancia inductiva también lo hace, haciendo que el valor pico de la corriente disminuya debidl a que se impide mayormente el flujo de corriente en el circuito.
+
 
 7. BIBLIOGRAFÍA
 
