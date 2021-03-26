@@ -82,22 +82,22 @@
    
      1. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
        
-       Cuando un capacitor se encuentra con corriente continua, este evita el paso de dicha corriente, ya que almacena carga eléctrica en sus extremos. Dicha carga se relaciona con los valores medidos de voltaje en los extremos de la conexión en paralelo de las dos capacitancias.
-       Por otro lado, con las bobinas sucede algo similar, ya que también se acumula energía en ellas, la cual a su vez también se encuentra relacionada con los valores medidos de voltaje. 
+     Cuando un capacitor se encuentra con corriente continua, este evita el paso de dicha corriente, ya que almacena carga eléctrica en sus extremos. Dicha carga se relaciona con los valores medidos de voltaje en los extremos de la conexión en paralelo de las dos capacitancias.
+     Por otro lado, con las bobinas sucede algo similar, ya que también se acumula energía en ellas, la cual a su vez también se encuentra relacionada con los valores medidos de voltaje. 
          
      2. ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
-       Tanto la bobina como el capacitor, cuando se encuentran en corriente alterna permiten el paso de dicha corriente, pero con una oposición a ella, lo cual se conoce como reactancia, la cual puede ser capacitiva (si se trata de un capacitor) o inductiva (si se trata de un inductor).
+     Tanto la bobina como el capacitor, cuando se encuentran en corriente alterna permiten el paso de dicha corriente, pero con una oposición a ella, lo cual se conoce como reactancia, la cual puede ser capacitiva (si se trata de un capacitor) o inductiva (si se trata de un inductor).
       
      3. ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
-       Dado que la reactancia depende de los valores de capacitancia e inductancia (dependiendo del tipo de reactancia que sea), por ello si varían dichos valores, también van a variar los valores de la corriente como de Vo.
-       Si se aumentan los valores de capacitancia, se obtendrá una reactancia capacitiva menor, lo cual permitirá un mayor paso de corriente y consecuentemente, un mayor valor en Vo.
-       Por otro lado, si se aumentan los valores de inductancia, la reactancia inductiva será mayor, lo cual impedirá mayormente el paso de corriente, haciendo que el valor de Vo disminuya.
+     Dado que la reactancia depende de los valores de capacitancia e inductancia (dependiendo del tipo de reactancia que sea), por ello si varían dichos valores, también van a variar los valores de la corriente como de Vo.
+     Si se aumentan los valores de capacitancia, se obtendrá una reactancia capacitiva menor, lo cual permitirá un mayor paso de corriente y consecuentemente, un mayor valor en Vo.
+     Por otro lado, si se aumentan los valores de inductancia, la reactancia inductiva será mayor, lo cual impedirá mayormente el paso de corriente, haciendo que el valor de Vo disminuya.
        
      4. ¿Qué son los valores eficaces de voltaje y corriente?
 
-       Los valores eficaces también se conocen como rms, los cuales son los valores de voltaje o corriente alternos, que generarían un igual efecto si se tratara de una fuente cd con los mismos valores.
+     Los valores eficaces también se conocen como rms, los cuales son los valores de voltaje o corriente alternos, que generarían un igual efecto si se tratara de una fuente cd con los mismos valores.
        
 
   
