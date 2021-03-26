@@ -35,46 +35,41 @@
 
 5. EXPLICACIÓN
 
-   5.1. Procedimiento
+   5.1. Análisis de Resultados
    
-     Ejercicio 1: Transformar a la forma polar
+     ![image](https://user-images.githubusercontent.com/75439689/112569419-1f138480-8db2-11eb-8020-fd5d8867b814.png)
+     ![image](https://user-images.githubusercontent.com/75439689/112569423-220e7500-8db2-11eb-9f39-554f6e1c49e6.png)
      
-      - Obtener el módulo del fasor aplicando el teorema de pitágoras entre las dos componentes rectangulares (catetos).
-      - Obtener el ángulo polar del fasor aplicando la inversa de la tangente al cociente entre la componente imaginaria y la componente real (incluyendo sus signos), si se encuentra en el segundo o tercer cuadrante, se suman 180° al valo9r obtenido.
-      - Expresar el fasor con su módulo y su ángulo polar.
-
-     Ejercicio 2: Transformar a la forma rectangular
+     Para el análisis de resultados se imprimieron dos tablas, una por cada circuito, donde los datos se distribuyen en 4 columnas: frecuencia, voltaje pico, voltaje rms y la corriente, cada dato fue tomado mediante el simulador dcac lab, y luego fueron puestos en estas tablas.
      
-      - Obtener la componente real mediante el producto entre el módulo y el coseno del ángulo.
-      - Obtener la componente imaginaria mediante el producto entre el módulo y el seno del ángulo.
-      - Expresar el fasor como la suma de la componente real con la imaginaria (la cual lleva una j delante).
+     Tabla Circuito con Capacitores Voltaje pico:
      
-     Ejercicio 3: Operaciones
+     Los voltajes pico tiene un valor casi aproximado al voltaje de fuente, pero a medida que la frecuencia aumenta, su voltaje pico va disminuyendo en relación al voltaje de fuente. Al principio la frecuenia de 0 Hz debería darnos un voltaje de 10v, sin embargo, el simulador no puede determinar esto.
      
-     Dependiendo del tipo de operaciones que se tenga, se debe realisarlas respectivas transformaciones
+     Tabla Circuito con Capacitores Voltaje rms:
      
-      - Si es una multiplicación o división entre fasores, se pasa todo a la forma polar. Donde los módulos se multiplican o dividen según el caso, y los ángulos se suman (si es multiplicación) o se restan (si es división).
-      - Si es una suma o resta entre fasores, se pasa todo a la forma rectangular. Donde se suman o restan los términos reales y de igual manera se procede con los términos imaginarios.
+     Los voltajes rms expresan el voltaje real que capta una carga, estos voltajes representan el 0.707 del voltaje pico de los medidos en la segunda columna de la primera tabla, esto es experimentado en las tablas, cada dato es al menos algo cercacno al 0.707 de cada voltaje pico respectivamente de cada frecuencia.
      
-     Ejercicio 4: Comprobación con calculadora
+     Tabla Circuito con Capacitores Corriente:
      
-      - Ingresar a la plataforma symbolab (link: https://es.symbolab.com/solver/complex-number-calculator/)
-      - Seleccionar la opción que se requiere realizar.
-      - Ingresar los valores fasoriales.
-      - Dar click en "Ir".
-      - Verificar la respuesta.
-       
-   
-   
+     Los valores de corrientes se comportan de manera inversa a la de los voltajes; en cada voltaje, a medida que aumentaba la frecuencia, disminuía el voltaje, por otro lado, la corriente va en aumento a medida que la frecuencia aumenta, esto es evidenciado en la tabla donde los datos fueron sacados del simulador.
+     
+     Tabla Circuito con Inductores Voltaje pico:
+     
+     Los voltajes pico en la tabla de inductores se comportan de manera contraria a los voltajes de la tabla del circuito con capacitores, los voltajes pico empiezan cerca del 0, pero por cada frecuencia que va aumentando, los valores del voltaje se van acercando al valor del voltaje de fuente, como es evidenciado en la segunda columna de la tabla de inductores.
+     
+     Tabla Circuito con Inductores Voltaje rms:
+     
+     Los voltajes de la tercera columna cumplen la teoría de que valen el 0.707 del valor de voltaje pico, y como fue dicho antes, estos valores van en aumento a medida que la frecuencia va aumentando, al contrario de como se comportaba los voltajes rms en la tabla del circuito con capacitores.
+     
+     Tabla Circuito con Inductores Corriente:
+     
+     En esta tabla se evidencia la corriente que se pasa por parte de la resistencia, pero se puede observar que los valores que pasan por este se ven afectados de manera inversa por la frecuencia, es decir, por cada frecuencia que se va aumentando el valor de la corriente va disminuyendo, al contrario de la tabla de circuito con capacitores, hasta llegar al valor de 0 A.
+     
    5.2. Desarrollo
      
-   ![Laboratorio 7_Página_1](https://user-images.githubusercontent.com/75439689/111711013-ddfefb80-8818-11eb-943f-a72e0921ea39.jpg)
-   ![Laboratorio 7_Página_2](https://user-images.githubusercontent.com/75439689/111711014-de979200-8818-11eb-8849-09f77f5e02fa.jpg)
-   ![Laboratorio 7_Página_3](https://user-images.githubusercontent.com/75439689/111711016-de979200-8818-11eb-8f6e-e58fdd6447a6.jpg)
-   ![Laboratorio 7_Página_4](https://user-images.githubusercontent.com/75439689/111711010-dd666500-8818-11eb-8546-843533ffa2a5.jpg)
-   ![Laboratorio 7_Página_5](https://user-images.githubusercontent.com/75439689/111711043-eb1bea80-8818-11eb-918c-853c0c312978.jpg)
-   ![Laboratorio 7_Página_6](https://user-images.githubusercontent.com/75439689/111711052-efe09e80-8818-11eb-9bac-8f6b2b546dca.jpg)
-
+     
+     
    5.3. Comparación de Respuestas
   
     -  Cómo se puede observar, las operaciones hechas a mano y a calculadora son muy parecidas sin embargo tienen un pequeño margen de error:
