@@ -92,8 +92,8 @@
      3. ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
      Dado que la reactancia depende de los valores de capacitancia e inductancia (dependiendo del tipo de reactancia que sea), por ello si varían dichos valores, también van a variar los valores de la corriente como de Vo.
-     Si se aumentan los valores de capacitancia, se obtendrá una reactancia capacitiva menor, lo cual permitirá un mayor paso de corriente y consecuentemente, un mayor valor en Vo.
-     Por otro lado, si se aumentan los valores de inductancia, la reactancia inductiva será mayor, lo cual impedirá mayormente el paso de corriente, haciendo que el valor de Vo disminuya.
+     Si se aumentan los valores de capacitancia, se obtendrá una reactancia capacitiva menor, lo cual permitirá un mayor paso de corriente, pero el valor en Vo disminuiría.
+     Por otro lado, si se aumentan los valores de inductancia, la reactancia inductiva será mayor, lo cual impedirá mayormente el paso de corriente, haciendo que el valor de Vo aumente.
        
      4. ¿Qué son los valores eficaces de voltaje y corriente?
 
@@ -104,7 +104,7 @@
 
 6. CONCLUSIONES
 
-   - 
+   - Cuando la frecuencia de la fuente es igual a cero, 
 
 
 7. BIBLIOGRAFÍA
