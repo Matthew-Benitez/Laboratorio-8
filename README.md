@@ -75,21 +75,14 @@
     -  Cómo se puede observar, las operaciones hechas a mano y a calculadora son muy parecidas sin embargo tienen un pequeño margen de error:
 
       ![Error](https://user-images.githubusercontent.com/75439689/111712761-4a2f2e80-881c-11eb-8c6f-1b4ecbafd025.jpg)
-
-6. MANUAL DE USUARIO
-
-   - Para la comparación de datos entre la calculadora y los ejercicios hechos, se procederá a utilizar una calculadora en línea que transforma números complejos de forma polar a forma rectangular y viceversa. La calculadora se encuentra en el link: https://es.symbolab.com/solver/complex-number-calculator/
-      ![image](https://user-images.githubusercontent.com/75439689/111711246-451cb000-8819-11eb-9e6d-eb26c9fb9eae.png)
-  
-   - En la barra blanca se ingresan los datos para las operaciones de números complejos, dentro de esta se deberá poner los numeros complejos como la i a la derecha en vez de la j a la izquierda, luego de poner todos los datos se presiona el botón Ir y se desplegará la respuesta abajo.
  
-7. CONCLUSIONES
+6. CONCLUSIONES
 
    - Es necesario conocer cómo realizar operaciones matemáticas entre números complejos (ya sea en su forma polar o rectangular), ya que estos permiten la representación de fasores, los cuales a su vez son fundamentales en el análisis de circuitos en CA.
    - Para poder efectuar sumas o restas entre fasores, es necesario que estos se encuentren en coordenadas rectangulares, y si no lo están, se deben transformar a dichas coordenadas. Ya que únicamente se suman o restan los términos semejantes, es decir, los términos que comprenden la parte real del número complejo se suman o restan entre sí, y de igual manera se opera entre números imaginarios.
    - Para poder efectuar multiplicaciones o divisiones con cantidades fasoriales, estas deben estar expresadas en coordenadas polares para poder facilitar el proceso (de no ser así, se deben transformar a dichas coordenadas). Ya que de esa manera, únicamente se multiplican o dividen las magnitudes correspondientes y los ángulos se suman (si es multiplicación) o se restan (si es división). 
 
 
-8. BIBLIOGRAFÍA
+7. BIBLIOGRAFÍA
 
    - Floyd, T. L. (2007). Principios de circuitos eléctricos (Octava ed.).
