@@ -104,8 +104,8 @@
 
 6. CONCLUSIONES
 
-   - Cuando la frecuencia de la fuente es igual a cero, 
-
+   - Cuando la frecuencia de la fuente es igual a cero, se trata de una fuente de corriente continua, la cual produce un efecto distinto sobre los capacitores y las inductancias a diferencia de lo que produce la corriente alterna en ellas. Dicho efecto consiste en que ambos almacenan energía, pero considerando también que el capacitor impide completamente el paso de corriente. 
+   - 
 
 7. BIBLIOGRAFÍA
 
