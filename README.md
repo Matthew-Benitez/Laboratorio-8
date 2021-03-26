@@ -12,7 +12,8 @@
    
 2. MARCO TEÓRICO
    
-   ![0001 (7)](https://user-images.githubusercontent.com/76133212/111713991-adba5b80-881e-11eb-96c4-a1c067b62d8a.jpg)
+   ![0001 (10)](https://user-images.githubusercontent.com/76133212/112571149-7535f700-8db5-11eb-849e-77ffd878c3cf.jpg)
+   ![0001 (9)](https://user-images.githubusercontent.com/76133212/112571156-7830e780-8db5-11eb-8c03-cdcf90ad42b6.jpg)
 
    
 3. DIAGRAMAS
