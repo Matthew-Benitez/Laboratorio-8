@@ -67,21 +67,22 @@
      
      En esta tabla se evidencia la corriente que se pasa por parte de la resistencia, pero se puede observar que los valores que pasan por este se ven afectados de manera inversa por la frecuencia, es decir, por cada frecuencia que se va aumentando el valor de la corriente va disminuyendo, al contrario de la tabla de circuito con capacitores, hasta llegar al valor de 0 A.
      
-   5.2. Desarrollo
-     
-     
-     
-   5.3. Comparación de Respuestas
-  
-    -  Cómo se puede observar, las operaciones hechas a mano y a calculadora son muy parecidas sin embargo tienen un pequeño margen de error:
+   5.2. Preguntas
+   
+     1. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+         
+     2. ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+      
+     3. ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+       
+     4. ¿Qué son los valores eficaces de voltaje y corriente?
+       
 
-      ![Error](https://user-images.githubusercontent.com/75439689/111712761-4a2f2e80-881c-11eb-8c6f-1b4ecbafd025.jpg)
- 
+  
+
 6. CONCLUSIONES
 
-   - Es necesario conocer cómo realizar operaciones matemáticas entre números complejos (ya sea en su forma polar o rectangular), ya que estos permiten la representación de fasores, los cuales a su vez son fundamentales en el análisis de circuitos en CA.
-   - Para poder efectuar sumas o restas entre fasores, es necesario que estos se encuentren en coordenadas rectangulares, y si no lo están, se deben transformar a dichas coordenadas. Ya que únicamente se suman o restan los términos semejantes, es decir, los términos que comprenden la parte real del número complejo se suman o restan entre sí, y de igual manera se opera entre números imaginarios.
-   - Para poder efectuar multiplicaciones o divisiones con cantidades fasoriales, estas deben estar expresadas en coordenadas polares para poder facilitar el proceso (de no ser así, se deben transformar a dichas coordenadas). Ya que de esa manera, únicamente se multiplican o dividen las magnitudes correspondientes y los ángulos se suman (si es multiplicación) o se restan (si es división). 
+   -
 
 
 7. BIBLIOGRAFÍA
